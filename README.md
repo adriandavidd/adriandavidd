@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**adriandavidd/adriandavidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋 My name is Adrian
+=======================
 
-Here are some ideas to get you started:
+I am a young man passionate about web development. Although I haven't been around for a long time, I want to improve my skills and my logic more and more every day, specializing in back-end and new emerging technologies in this field of constant updating. I have a whole path ahead of me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ✉️  You can contact me at [adrianurielvergaraa@gmail.com](mailto:adrianurielvergaraa@gmail.com)
+
+# Languages-Frameworks-Tools:
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,astro,git,github,tailwind,react,next,figma,nodejs,npm,notion&theme=dark&perline=7)](https://skillicons.dev)
+
+
+#
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Adrian&icon=2&color=12)](https://visitcount.itsvg.in)
+
+###
+
+
