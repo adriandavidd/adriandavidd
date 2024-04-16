@@ -14,9 +14,6 @@ I am a young man passionate about web development. Although I haven't been aroun
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=Adrian&icon=2&color=12)](https://visitcount.itsvg.in)
 
-###
 
 
