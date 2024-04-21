@@ -7,7 +7,7 @@ I am a young man passionate about web development. Although I haven't been aroun
 * ✉️  You can contact me at [adrianurielvergaraa@gmail.com](mailto:adrianurielvergaraa@gmail.com)
 
 # Languages-Frameworks-Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,astro,tailwind,react,next,nodejs,npm,bun&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,astro,tailwind,react,next,vite,nodejs,npm,bun&theme=dark&perline=6)](https://skillicons.dev)
 
 
 #
